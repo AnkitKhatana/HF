@@ -1,7 +1,6 @@
-package GUI;
+package HFJ.GUI;
 
 import javax.swing.*;
-import java.awt.event.*;
 
 public class SimpleGUI1 {
     public static void main(String[] args) {

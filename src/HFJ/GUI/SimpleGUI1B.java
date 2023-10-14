@@ -1,4 +1,4 @@
-package GUI;
+package HFJ.GUI;
 
 import javax.swing.*;
 import java.awt.event.*;
